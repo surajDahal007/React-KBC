@@ -1,0 +1,13 @@
+.timer-counter{
+    color: white;
+    font-weight: bold;
+    background-color: black;
+    font-size: xx-large;
+    border: 3px solid white;
+    border-radius: 100%;
+    padding: 50px;
+    width: 50px;
+    margin-left: 30%;
+    margin-top: 5%;
+    text-align: center;
+}
